@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Recipe-finder/static/css/main.7f513c48.css",
+    "main.js": "/Recipe-finder/static/js/main.65e74a1c.js",
+    "static/media/coaktail.jpeg": "/Recipe-finder/static/media/coaktail.37d24abf0503f2608798.jpeg",
+    "static/media/logo1.jpeg": "/Recipe-finder/static/media/logo1.23ff168685efd55b80f0.jpeg",
+    "static/media/bg6.jpeg": "/Recipe-finder/static/media/bg6.140fd7f6f45891bfc523.jpeg",
+    "static/media/meatloaf.jpeg": "/Recipe-finder/static/media/meatloaf.b28b75a543edbcd720d2.jpeg",
+    "static/media/chicken.jpeg": "/Recipe-finder/static/media/chicken.c4e78ea6b9393a2e845d.jpeg",
+    "index.html": "/Recipe-finder/index.html",
+    "main.7f513c48.css.map": "/Recipe-finder/static/css/main.7f513c48.css.map",
+    "main.65e74a1c.js.map": "/Recipe-finder/static/js/main.65e74a1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f513c48.css",
+    "static/js/main.65e74a1c.js"
+  ]
+}
